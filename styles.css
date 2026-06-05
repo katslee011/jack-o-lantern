@@ -1,0 +1,20 @@
+p{
+  width: 80%;
+}
+
+img{
+  width: 30%;
+  height: 30%;
+}
+.pen{
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 5%;
+  color: darkblue;
+}
+.eraser{
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 15%;
+  color: crimson
+}
